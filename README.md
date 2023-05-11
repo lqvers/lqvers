@@ -10,14 +10,14 @@ I enjoy working with TypeScript and Node.js to build applications and packages
 
 Below is a list of my favorite projects, sorted in order of preference. For a full list of my projects, click [here](https://github.com/lqvers?tab=repositories)
 
-* **[discord-webhook-handler](npmjs.com/package/discord-webhook-handler)** (`typescript`) <br>
+* **[discord-webhook-handler](https://npmjs.com/package/discord-webhook-handler)** (`typescript`) <br>
   An easy-to-use package for sending, managing, and deleting Discord webhooks.
 
-* **[downfetch](npmjs.com/package/downfetch)** (`typescript`) <br>
+* **[downfetch](https://npmjs.com/package/downfetch)** (`typescript`) <br>
   Versatile and powerful NPM package that allows you to effortlessly download content from a variety of popular platforms.
 
 * **[lqvers.netlify.app](https://lqvers.netlify.app)** (`html, css, js`) <br>
   Website which redirects you to my projects and socials
 
-* **[cutlink](npmjs.com/package/cutlink)** (`typescript`) <br>
+* **[cutlink](https://npmjs.com/package/cutlink)** (`typescript`) <br>
   Lightweight NPM package that allows you to quickly and easily shorten URLs using a variety of link shortening services.
