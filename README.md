@@ -3,7 +3,7 @@
 ## ![@lqvers](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=1&pause=1000&color=529AED&vCenter=true&width=435&height=25&lines=@lqvers)
 
 ```
-@lttrvqs on all platforms
+fr#5360 
 ```
 
 ### ![Projects](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=3500&pause=1000&color=FFFFFF&vCenter=true&width=435&height=25&lines=Projects)
